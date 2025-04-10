@@ -39,11 +39,11 @@ Currently based in Atlanta, GA, with 3+ years of hands-on experience in:
 - Built a time series forecasting model using NYC mobility data to predict peak transit demand periods.
 - Helped inform fleet allocation strategies by reducing mean absolute error (MAE) by over 40% and visualizing trends with Tableau dashboards.
 
-### [📉 Telecom Customer Churn Prediction](https://github.com/umatamalampudi2218/Telecom-Customer-Churn-Prediction-using-Machine-Learning)
+### [Telecom Customer Churn Prediction](https://github.com/umatamalampudi2218/Telecom-Customer-Churn-Prediction-using-Machine-Learning)
 - Designed and evaluated supervised learning models to predict churn probability across telecom customer segments.
 - Delivered actionable insights through feature analysis and classification reports to support retention strategies.
 
-### [🏥 Hospital Readmission Risk Modeling](#)
+### [Hospital Readmission Risk Modeling](#)
 - Built predictive models to estimate hospital readmission risk, enabling physicians to triage high-risk patients more effectively.
 - Improved operational planning by identifying patterns in patient history and clinical data.
 
