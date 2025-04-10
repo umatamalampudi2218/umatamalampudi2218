@@ -31,35 +31,21 @@ Currently based in Atlanta, GA, with 3+ years of hands-on experience in:
 
 ## 💼 Featured Projects
 
-### 📈 Market Sentiment & Risk Analyzer
----
-**NLP | LSTM | Flask | Financial Data**  
-Built a real-time dashboard that predicts stock risk based on Twitter sentiment and S&P500 keyword bursts.  
-🔗 [View Project](#)
+### [Market Sentiment & Risk Analyzer](#)
+- Developed a real-time dashboard to monitor Twitter sentiment and S&P500 keyword bursts to flag market volatility risks.
+- Integrated an LSTM model and Flask API to deliver live risk scores, helping users anticipate sudden shifts in sentiment.
 
+### [Urban Transit Demand Forecasting](#)
+- Built a time series forecasting model using NYC mobility data to predict peak transit demand periods.
+- Helped inform fleet allocation strategies by reducing mean absolute error (MAE) by over 40% and visualizing trends with Tableau dashboards.
 
+### [📉 Telecom Customer Churn Prediction](https://github.com/umatamalampudi2218/Telecom-Customer-Churn-Prediction-using-Machine-Learning)
+- Designed and evaluated supervised learning models to predict churn probability across telecom customer segments.
+- Delivered actionable insights through feature analysis and classification reports to support retention strategies.
 
-### 🚌 Urban Transit Demand Forecasting 
----
-**Time Series | Prophet | Tableau**  
-Forecasted public transit demand in NYC using Prophet to help optimize fleet management and reduce MAE by 40%.  
-🔗 [View Project](#)
-
-
-
-### 📉 Telecom Customer Churn Prediction 
----
-**Python | scikit-learn | Classification**  
-Built supervised ML models to predict customer churn in the telecom sector. Includes preprocessing, feature engineering, and model evaluation.  
-📊 Algorithms used: Random Forest, Logistic Regression, XGBoost  
-🔗 [GitHub Repo](https://github.com/umatamalampudi2218/Telecom-Customer-Churn-Prediction-using-Machine-Learning)
-
-
-### 🏥 Hospital Readmission Risk Modeling
----
-**Random Forest | Logistic Regression | Healthcare Data**  
-Estimated patient readmission risk using historical hospital records—improving physician triage by 20%.  
-🔗 [View Project](#)
+### [🏥 Hospital Readmission Risk Modeling](#)
+- Built predictive models to estimate hospital readmission risk, enabling physicians to triage high-risk patients more effectively.
+- Improved operational planning by identifying patterns in patient history and clinical data.
 
 
 ## 📬 Let’s Connect
