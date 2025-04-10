@@ -20,10 +20,17 @@ Currently based in Atlanta, GA, with 3+ years of hands-on experience in:
 
 ## 🛠 Tech Stack
 
-**Languages:** Python, SQL, R, PySpark  
-**Tools:** Tableau, Power BI, Excel, TensorFlow, XGBoost  
-**Data Engineering:** Apache Airflow, AWS Glue, Redshift, EMR , DBT
-**Competencies:** AWS S3, RDS, Databricks, Docker, Kubernetes , kafka , ELK Stack
+**Languages:**  
+`Python` `SQL` `R` `PySpark`  
+
+**Data Tools & ML Frameworks:**  
+`Tableau` `Power BI` `Excel` `TensorFlow` `XGBoost`  
+
+**Data Engineering & Pipelines:**  
+`Apache Airflow` `AWS Glue` `Redshift` `AWS EMR` `DBT`  
+
+**Competencies:**  
+`AWS S3` `RDS` `Databricks` `Docker` `Kubernetes` `Kafka` `ELK Stack`
 
 ---
 
